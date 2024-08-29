@@ -15,7 +15,7 @@ def main():
   #Print the story with the user supplied words.
   print("Tuesday, I took a trip to the", location1, "with some friends, when we suddenly saw a", noun1, "on the side of the road.")
   print("We were not quite sure what it was, but we decided to",action1, " away from it.", "Man am I glad we decided to", action1, "but I wonder what would have happened if we had decide to", action2, "instead.")
-  print("I think this will make for an excelent story to tell", person1, "if I get the chance. They will definitly enjoy it. Speaking of, I should check up on them and see if they are still into", hobby1)
+  print("I think this will make for an excelent story to tell", person1, "if I get the chance. They will definitly enjoy it. Speaking of, I think its about time I check up on them and see if they are still into", hobby1)
 
 
 
